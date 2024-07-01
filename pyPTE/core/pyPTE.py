@@ -57,7 +57,7 @@ def get_discretized_phase(phase: npt.NDArray, binsize: float) -> npt.NDArray:
     Parameters
     ----------
     phase : numpy.ndarray
-        m x n ndarray : m: number of channels, n: number of samples
+        m x n n darray : m: number of channels, n: number of samples
 
     binsize : float
 
